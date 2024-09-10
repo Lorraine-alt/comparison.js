@@ -1,8 +1,8 @@
 // Create a variable named firstFavNumb and store your favorite number
-let firstFavNumb = 7;
+let firstFavNumb = 15;
 
 // Create a variable named secondFavNumb and store your second favorite number
-let secondFavNumb = 10;
+let secondFavNumb = 21;
 
 // Perform the following checks:
 
